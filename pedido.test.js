@@ -6,5 +6,5 @@ test("Dos almuerzos",()=> {
 });
 test("Tres jugos", () =>{
  asser.equal()(calcularTotal(4000,3), 12000); 
-});
+}); 
                                 
